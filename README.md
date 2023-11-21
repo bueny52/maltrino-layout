@@ -41,6 +41,9 @@ a o i s y      f t h r n
 k z . g #      v w x q j
          e   spc
 ```
+
+See this variant in action [here](https://youtu.be/IivLDfUq64o) and [here](https://youtu.be/YguKZIDKrBw)
+
 ## Alternative consonant hand
 Swapping `t <-> h` and `w <-> d` results in an alternative consonant hand:
 ```
