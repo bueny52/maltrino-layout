@@ -54,6 +54,15 @@ a o i s y      f h t r n
 ```
 `f,m,d` shuffles can be employed at will.  Note how the `m w f t h r d` group recovered their `dvorak` fingering.
 
+### Adaptation for Dutch/English bilingual
+Courtesy of [Moosy](https://sites.google.com/view/keyboards). Rotating `t h r n -> n t h r` and `x <-> j` puts `n` and `j` on stronger fingers to match their prominence in Dutch. The load on the right pinky is also lowered, which may ease the transition for QWERTY users:
+```
+q , u c #      b m d l p
+a o i s y      f n t h r
+' z . g #      v w k j x
+         e   spc
+```
+
 ## "Optimizing" for analyzers
 It is possible to "optimize" the layout further, using tricks such as vowel stacking and increased bottom row/pinky usage, to (sometimes significantly) improve analyzer scores. The following variation would still be quite usable, but perhaps not as comfortable and ergonomic:
 ```
