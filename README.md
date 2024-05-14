@@ -34,15 +34,14 @@ For those who can tolerate more bottom row usage, one or both of the following a
 - `b <-> k`
 - `v <-> x`
 
-For those who cannot tolerate `k` on middle finger bottom row (due, e.g., to`k_d` skipgrams or `kl/lk` scissor bigrams, both of which hop over the home row), the following variant is suggested:
+For those who cannot tolerate `k` on middle finger bottom row (due, e.g., to `k_d` skipgrams or `kl/lk` scissor bigrams, both of which hop over the home row), the following variant is suggested:
 ```
-' , u c #      b m d l p
+' , u c k      b m d l p
 a o i s y      f t h r n
-k z . g #      v w x q j
+# z . g k*     v w x q j
          e   spc
 ```
-
-See this variant in action [here](https://youtu.be/IivLDfUq64o) and [here](https://youtu.be/YguKZIDKrBw)
+where `k*` is a secondary location for `k`, assumed to be alt-fingered by the left thumb, to avoid the `ck/sk` SFBs. This is the variant the author currently uses (as seen [here](https://youtu.be/J1Zs8SP61s4)).
 
 ## Alternative consonant hand
 Swapping `t <-> h` and `w <-> d` results in an alternative consonant hand:
